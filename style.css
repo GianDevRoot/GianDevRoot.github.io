@@ -78,3 +78,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.fila1{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+.empresa1{
+font-family: 'Times New Roman', serif;
+font-size: 0.9em;
+}
+.fecha1{
+font-family: 'Times New Roman', serif;
+font-size: 0.9em;
+}
