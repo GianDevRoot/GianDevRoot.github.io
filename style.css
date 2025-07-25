@@ -91,3 +91,7 @@ font-size: 0.9em;
 font-family: 'Times New Roman', serif;
 font-size: 0.9em;
 }
+.certificados{
+    list-style-type: disc;
+  margin-left: 20px;
+}
